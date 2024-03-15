@@ -1,9 +1,9 @@
 > [!NOTE]
-> Parsec-vdd will directly provide a better solution, this project update is planned to be discontinued！
+> This project is only a temporary solution and currently only provides minimal maintenance. Parsec-vdd will directly provide a more complete solution, please continue to pay attention.
 > 
 > where find it？ 👉👉👉https://github.com/nomi-san/parsec-vdd
 >
-> Parsec-vdd将直接提供更完善的解决方案，本项目更新计划中止！
+> 本项目仅作为一个临时解决方案，目前只提供最低限度的维护，Parsec-vdd将直接提供更完善的解决方案，请各位持续关注。
 >
 > 项目地址 👉👉👉https://github.com/nomi-san/parsec-vdd
 
