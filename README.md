@@ -11,6 +11,9 @@
 > 一键关闭脚本可一键关闭虚拟屏。
 > 所有内容见release。
 >
+> ![屏幕截图 2024-04-15 030455](https://github.com/sprlightning/Easy-Virtual-Display/assets/96748320/c3548ddb-9a17-498d-b0d8-680ca2139688)
+>
+> 
 > PS.KtzeAbyss的项目地址👉👉👉https://github.com/KtzeAbyss/Easy-Virtual-Display
 >
 >———————————————————以下为历史内容——————————————————
@@ -35,13 +38,17 @@ This project builds upon the ParsecVDD foundation and utilizes the repository fo
 
 Please select the latest release version.
 
+![屏幕截图 2024-04-15 025424](https://github.com/sprlightning/Easy-Virtual-Display/assets/96748320/e51ed4e4-2ee2-46c0-a6ba-370cb910f747)
+
+
 
 # How to Use
 
 1. Download and install the application. It is recommended to create a shortcut.
 
-![image](https://github.com/KtzeAbyss/Easy-Virtual-Display/assets/46898226/e79caa33-480c-486e-b63e-f23abeeef3e3)
 
+
+![屏幕截图 2024-04-15 025424](https://github.com/sprlightning/Easy-Virtual-Display/assets/96748320/e51ed4e4-2ee2-46c0-a6ba-370cb910f747)
 
 
 ![image](https://github.com/KtzeAbyss/Easy-Virtual-Display/assets/46898226/4aff971b-b1ef-4aa4-a04d-43b09df850ea)
@@ -85,11 +92,16 @@ Unrestricted creation of virtual displays with various resolutions and refresh r
 
 请选择最新发布版本。
 
+
+![屏幕截图 2024-04-15 025424](https://github.com/sprlightning/Easy-Virtual-Display/assets/96748320/e51ed4e4-2ee2-46c0-a6ba-370cb910f747)
+
+
 # 使用方法（首次启动务必先安装驱动！！！首次启动务必先安装驱动！！！首次启动务必先安装驱动！！！）
 
 1. 下载并安装应用程序。建议创建快捷方式。
 
-![图片](https://github.com/KtzeAbyss/Easy-Virtual-Display/assets/46898226/e79caa33-480c-486e-b63e-f23abeeef3e3)
+
+![屏幕截图 2024-04-15 025424](https://github.com/sprlightning/Easy-Virtual-Display/assets/96748320/e51ed4e4-2ee2-46c0-a6ba-370cb910f747)
 
 ![图片](https://github.com/KtzeAbyss/Easy-Virtual-Display/assets/46898226/4aff971b-b1ef-4aa4-a04d-43b09df850ea)
 
@@ -110,6 +122,16 @@ Unrestricted creation of virtual displays with various resolutions and refresh r
 6. 退出：退出程序
 
 # 玩法演示
+
+## 开机后台自启动
+要求将脚本放在EVD安装目录（不可以安装在C盘），并且关闭UAC，开启白名单，创建计划选无论是否登录都要运行，不保存密码，勾选最高权限，触发器用任何用户登录时。
+
+
+![屏幕截图 2024-04-15 025358](https://github.com/sprlightning/Easy-Virtual-Display/assets/96748320/ff87c1b8-6579-414c-862e-624fb8b81c1e)
+
+
+![屏幕截图 2024-04-15 030046](https://github.com/sprlightning/Easy-Virtual-Display/assets/96748320/5744cbbc-132b-4c4f-b33b-72331f20afcb)
+
 
 ## 隐私屏（远程控制/串流）
 
