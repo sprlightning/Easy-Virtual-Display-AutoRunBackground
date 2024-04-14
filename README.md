@@ -11,6 +11,8 @@
 > 一键关闭脚本可一键关闭虚拟屏。
 > 所有内容见release。
 >
+> PS.KtzeAbyss的项目地址👉👉👉https://github.com/KtzeAbyss/Easy-Virtual-Display
+>
 >———————————————————以下为历史内容——————————————————
 >
 > 本项目仅作为一个临时解决方案，目前只提供最低限度的维护，Parsec-vdd将直接提供更完善的解决方案，请各位持续关注。
